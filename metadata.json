@@ -1,0 +1,6 @@
+{
+  "name": "Notes PDF",
+  "description": "A notes app that lets you create and export PDF documents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
